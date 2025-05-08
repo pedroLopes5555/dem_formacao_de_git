@@ -27,8 +27,11 @@ codigo que faz uma feture v2 muito importante{
 
 codigo que faz uma feture v3 muito importante{
     codigo que faz uma feture muito importante
+<<<<<<< HEAD
     codigo que faz uma feture muito importante
     codigo que faz uma feture muito importante
     codigo que faz uma feture muito importante
     codigo que faz uma feture muito importante
+=======
+>>>>>>> 46657198102ecdfb4eaa63712b5f1070846aae13
 }
